@@ -1,4 +1,4 @@
-# joomla_update_system
+# Yak Shaver Joomla extensions update system (joomla_update_system)
 
 Update servers for the Yak Shaver Joomla extensions: one update descriptor per extension, served as
 raw XML to Joomla's Updater. Extensions are migrated here as they are released, so `manifests/` grows
