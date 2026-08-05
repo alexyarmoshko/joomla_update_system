@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>Yak Shaver Kunena Sticky Collapse</name>
+        <description>Collapsible pinned (sticky) topics in the Kunena category view.</description>
+        <element>kunenastickycollapse</element>
+        <type>plugin</type>
+        <folder>system</folder>
+        <client>site</client>
+        <version>0.1.0</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/alexyarmoshko/joomla_plg_kunena_stickycollapse/releases/download/0.1.0/plg_system_kunenastickycollapse-v0-1-0.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <sha256>0000000000000000000000000000000000000000000000000000000000000000</sha256>
+        <targetplatform name="joomla" version="(5\.[0-9])" />
+        <php_minimum>8.3.0</php_minimum>
+    </update>
+</updates>
