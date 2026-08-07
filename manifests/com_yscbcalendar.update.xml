@@ -5,15 +5,15 @@
         <description>Calendar component displaying CBGroupJive events that the user has access to.</description>
         <element>com_yscbcalendar</element>
         <type>component</type>
-        <version>1.0.4</version>
+        <version>1.1.0</version>
         <client>administrator</client>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/alexyarmoshko/joomla_com_yscbcalendar/releases/download/1.0.4/com_yscbcalendar-v1-0-4.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/alexyarmoshko/joomla_com_yscbcalendar/releases/download/1.1.0/com_yscbcalendar-v1-1-0.zip</downloadurl>
         </downloads>
         <tags>
             <tag>stable</tag>
         </tags>
-        <sha256>3ae8bbbb4d43d811254b1906ab51d4e7482914c1274300cbc8d715187bd12bd5</sha256>
+        <sha256>6a03dd994dfb4a75a6bea67232a4db56a1b3b64b3a1dff83bf57b346ab87fb72</sha256>
         <php_minimum>8.3</php_minimum>
         <targetplatform name="joomla"
             version="((5\.([4-9]|[1-9][0-9]))|(6\.(0|1|2|3|4|5|6|7|8|9)))" />
