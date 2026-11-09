@@ -5,15 +5,15 @@
         <description>Checks and applies the ECSKC site customisations, and re-checks them after extension work.</description>
         <element>pkg_ecskc_customisations</element>
         <type>package</type>
-        <version>0.2.1</version>
+        <version>0.2.2</version>
         <client>site</client>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/alexyarmoshko/joomla_pkg_ecskc_customisations/releases/download/0.2.1/pkg_ecskc_customisations-v0-2-1.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/alexyarmoshko/joomla_pkg_ecskc_customisations/releases/download/0.2.2/pkg_ecskc_customisations-v0-2-2.zip</downloadurl>
         </downloads>
         <tags>
             <tag>stable</tag>
         </tags>
-        <sha256>82a2a40008415c6301d9667e1b18ff8864752e5522dd4588e16e3507a8b3a145</sha256>
+        <sha256>0d90483a272bff598f7277d2f0f895dfdfbdf5ad3a771486bc1e3a2436191031</sha256>
         <php_minimum>8.3</php_minimum>
         <targetplatform name="joomla" version="5\.([4-9]|[1-9][0-9])" />
     </update>
